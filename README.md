@@ -1,7 +1,8 @@
 # Not Fancy Instagram
 
 Not fancy at all, Instagram using VueJS and Vuetify.
-For the **#notfancyappchallenge** - made, wayyy, under 24 hours.
+For the [**#notfancyappchallenge**](https://github.com/samanthaming/awesome-notfancyappchallenge)  - made under 24 hours.
+
 You can upload images and apply filters.
 
 ### Features include:
